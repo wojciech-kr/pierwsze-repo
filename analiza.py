@@ -8,3 +8,5 @@ print("Średnia:", statistics.mean(wyniki))
 max_wynik = max(wyniki)
 
 print(max_wynik)
+
+print("Mediana:", statistics.median(wyniki))
