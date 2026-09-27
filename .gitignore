@@ -1,0 +1,17 @@
+# Dane - nie są wysyłane na GitHub
+dane/
+ 
+# Sekrety: klucze, hasła, tokeny
+.env
+ 
+# Środowiska wirtualne
+.venv/
+venv/
+ 
+# Pliki tymczasowe Pythona i Jupytera
+__pycache__/
+.ipynb_checkpoints/
+ 
+# Pliki systemowe
+.DS_Store
+Thumbs.db
